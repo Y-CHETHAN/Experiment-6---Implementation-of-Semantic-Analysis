@@ -1,4 +1,4 @@
-# Program to Identify Verbs and Provide Synonyms using Natural Language Processing
+# Implementation of Semantic Analysis
 
 ## AIM
 Construct a Python program to read a text from a file. Identify the verbs from the text file and provide synonyms for all verbs using Natural Language Processing.
