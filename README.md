@@ -21,6 +21,8 @@ Construct a Python program to read a text from a file. Identify the verbs from t
    - Print the verbs and their synonyms.
 6. Execute the main program.
 
+<br><br><br><br><br><br><br><br><br>
+
 ## PROGRAM
 ```python
 import nltk
